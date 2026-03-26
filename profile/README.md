@@ -1,9 +1,9 @@
 <!-- Logo (replace the URL with your real logo image link) -->
 <p align="center">
-  <img src="https://github.com/Flux-Q/.github/raw/main/profile/logo.png" alt="Flux-Q Logo" width="260">
+  <img src="https://github.com/QCFlow/.github/raw/main/profile/logo.png" alt="QCFlow Logo" width="260">
 </p>
 
-<h1 align="center">Flux-Q</h1>
+<h1 align="center">QCFlow</h1>
 
 <p align="center">
   A lightweight, LLVM-based quantum software stack for hybrid classical–quantum computing.
@@ -22,7 +22,7 @@
 
 ## 🌌 Vision
 
-**Flux-Q** aims to build an open, practical quantum software ecosystem that:
+**QCFlow** aims to build an open, practical quantum software ecosystem that:
 
 - Bridges **classical and quantum** computation with a unified programming and task-flow model.
 - Provides a **lightweight, LLVM-based quantum compiler toolchain** that is easy to integrate and extend.
@@ -36,26 +36,26 @@ Our long-term goal is to make **hybrid classical–quantum applications** as nat
 ## 🧩 Projects (TODO)
 
 > Note: Repository names below are examples/placeholders.  
-> Adjust them to match your actual repos under the `Flux-Q` organization.
+> Adjust them to match your actual repos under the `QCFlow` organization.
 
-- **Flux-Q Compiler**  
+- **QCFlow Compiler**  
   LLVM-based quantum compiler and IR infrastructure for hybrid workloads.  
   _Repo_: `fluxq-compiler`
 
-- **Flux-Q QDBC Standard**  
+- **QCFlow QDBC Standard**  
   Quantum/Distributed Benchmark & Coding standard (QDBC) and related specification documents.  
   _Repo_: `fluxq-qdbc-spec`
 
-- **Flux-Q IDE & Plugins**  
+- **QCFlow IDE & Plugins**  
   Editor/IDE integrations (e.g., VS Code) with syntax support, diagnostics, and AI-assisted coding.  
   _Repo_: `fluxq-ide`
 
-- **Flux-Q Runtime & Task Flow**  
+- **QCFlow Runtime & Task Flow**  
   Runtime components and scheduling framework for classical–quantum task orchestration.  
   _Repo_: `fluxq-runtime`
 
-- **Flux-Q Examples & Tutorials**  
-  Sample projects, teaching materials, and best practices for Flux-Q tools.  
+- **QCFlow Examples & Tutorials**  
+  Sample projects, teaching materials, and best practices for QCFlow tools.  
   _Repo_: `fluxq-examples`
 
 ---
